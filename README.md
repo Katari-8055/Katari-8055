@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Katari-8055/Katari-8055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭Building full-stack applications with MERN stack and integrating Generative AI features into real-world products.<br>🌱 Generative AI (LLMs, LangChain, RAG), Next.js, and AI agent workflows with tools like n8n.<br>💬 MERN Stack, building end-to-end products, integrating AI into full-stack apps, and startup ideas.<br>⚡ I love turning complex tech into simple, usable products—and I'm obsessed with improving user experience using AI.
 
