@@ -1,4 +1,4 @@
-<h1>Hii 👋 i'm Rahul Bind</h1>
+<h1>Hii 👋 i'm Rahul Bind (Katari)</h1>
 
 # 💫 About Me:
 🔭Building full-stack applications with MERN stack and integrating Generative AI features into real-world products.<br>🌱 Generative AI (LLMs, LangChain, RAG), Next.js, and AI agent workflows with tools like n8n.<br>💬 MERN Stack, building end-to-end products, integrating AI into full-stack apps, and startup ideas.<br>⚡ I love turning complex tech into simple, usable products—and I'm obsessed with improving user experience using AI.
